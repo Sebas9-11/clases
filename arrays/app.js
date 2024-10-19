@@ -2,6 +2,18 @@ const frutas = ["banano", "pera", "mango", "manzana", "uva"];
 const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 const booleans = [true, false, true, false, false];
 
+// simbolos
+// mayor o igual >=
+// menor o igual <=
+// igual ==
+// diferente !=
+// y &&
+// o ||
+
+// if con dos o mas condiciones
+// evalua si las dos condiciones son verdaderas if(condicion1 && condicion2)
+// evalua si una de las dos condiciones es verdadera if(condicion1 || condicion2)
+
 // if(condicion) {
 //   console.log("mensaje")
 // } else {
